@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Том Нүдэт</string>
+    <string name="capture">Capture</string>
+    <string name="title_activity_confirmation">ConfirmationActivity</string>
+    <string name="image_confirmation">Image Confirmation</string>
+    <string name="title_activity_confirmatin">ConfirmatinActivity</string>
+    <string name="save">Хадгалах</string>
+    <string name="cancel">Цуцлах</string>
+    <string name="capture_button">Capture Button</string>
+    <string name="save_image">Save Image</string>
+    <string name="cancel_image">Cancel Image</string>
+    <string name="title_activity_intro">IntroActivity</string>
+    <string name="about">Бүтээгч</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="start">ЭХЛЭХ</string>
+    <string name="go_back">Буцах</string>
+
+</resources>
